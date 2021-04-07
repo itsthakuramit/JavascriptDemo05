@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "id": 101,
+      "customername": "Xerox corporation",
+      "emailid": "admin@xerox.com"
+    },
+    {
+      "id": 102,
+      "customername": "Oracle corporation",
+      "emailid": "admin@oracle.com"
+    },
+    {
+      "id": 301,
+      "customername": "HCL corporation",
+      "emailid": "contactus@hclcorp.com"
+    }
+  ]
+}
